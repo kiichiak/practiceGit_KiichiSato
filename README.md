@@ -1,1 +1,1 @@
-# practiceGit_KiichiSato
+# GitHub練習
